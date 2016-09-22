@@ -1,0 +1,39 @@
+Project / App name:
+BossPushNoticeTest
+
+Project ID:
+bosspushnoticetest
+
+Project number / SenderId:
+828768700042
+
+Punkt 4 i tutorial - cloud messaging:
+Følg link i slides:
+https://developers.google.com/mobile/add
+
+Android package name:
+dk.boss.bosspushnoticetest
+
+Server API Key:
+AIzaSyCHjntvCk9Yw3M-G3os9K0DPjSEaSQvO5M
+
+Notification Hub:
+bossnotificationhub
+bosstestnoticehub
+
+Namespace:
+bossnotificationnamespace
+bosspushnoticetest
+
+
+DefaultListenSharedAccessSignature:
+Endpoint=sb://bossnotificationnamespace.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=vY9h1IcUwYak2H5otmGWiane/Uw+pX7cgcZcxXDLOJs=
+Endpoint=sb://bosspushnoticetest.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=rpyz5KCmuuiGk6GHX8jGi2pfxgaFuoIjEnm8bXRT16Q=
+
+DefaultFullSharedAccessSignature:
+Endpoint=sb://bossnotificationnamespace.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=kxxtmpcrqW0cEVqR7iEX6DMhwdoIFFaj4XZvueBRV8o=
+Endpoint=sb://bosspushnoticetest.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=luwERuzfFSlVNQBzv9qeZJ0X/ZCS2sTRzj/nCwhYVvw=
+
+Opret Xamarin account:
+mikrobossen@mail.dk
+Password: normal m. 8
